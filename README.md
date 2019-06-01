@@ -1,6 +1,7 @@
 Gathering Data
 
 About the dataset - WeRateDogs
+
 This data set is taken from Twitter account name WeRateDogs. WeRateDogs rates dogs and provides humorous comments It contains 2356 tweet data from 2015 to 2017.
 
 There are 2 datasets named :
